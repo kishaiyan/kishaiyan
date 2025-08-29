@@ -1,81 +1,136 @@
-<div align="center">
-<pre>
-  _  __      _          _
- | |/ /     | |        | |
- | ' /  __ _| | ___ __ | | ____ _ _ __ ___  ___
- |  <  / _` | |/ / '_ \| |/ / _` | '__/ _ \/ __|
- | . \| (_| |   <| |_) |   < (_| | | |  __/\__ \
- |_|\_\\__,_|_|\_\ .__/|_|\_\\__,_|_|  \___||___/
-                 | |
-                 |_|
-</pre>
-</div>
+```
+██╗  ██╗██╗███████╗██╗  ██╗ █████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗
+██║ ██╔╝██║██╔════╝██║  ██║██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║
+█████╔╝ ██║███████╗███████║███████║██║ ╚████╔╝ ███████║██╔██╗ ██║
+██╔═██╗ ██║╚════██║██╔══██║██╔══██║██║  ╚██╔╝  ██╔══██║██║╚██╗██║
+██║  ██╗██║███████║██║  ██║██║  ██║██║   ██║   ██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 <div align="center">
 
-### `Hello, world!`
+### `Hello, world!` 👋
+
+**Full-Stack Developer** • **Tech Enthusiast** • **Based in Adelaide** 🇦🇺
+
+*Passionate about turning ideas into reality with clean, efficient code*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Exploring+cloud+technologies;Contributing+to+open+source;Always+learning+something+new!)](https://git.io/typing-svg)
 
 </div>
-
-I'm Kishaiyan, a passionate developer who loves turning ideas into reality with code. Welcome to my corner of the internet!
-
-<p align="center">
-  <a href="https://github.com/kishaiyan">
-    <img src="https://github-readme-stats.vercel.app/api?username=kishaiyan&show_icons=true&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Kishaiyan's GitHub stats"/>
-  </a>
-</p>
 
 ---
 
-### `> kishaiyan --info`
+## `> kishaiyan --about`
 
 ```bash
 $ whoami
   Kishaiyan Thangaraj
 
-$ bio
-  > Full-Stack Developer
-  > Tech Enthusiast & Lifelong Learner
-  > Based in Adelaide
+$ echo $ROLE
+  Full-Stack Developer & Tech Enthusiast
 
-$ interests
-  > Building cool things with code
-  > Exploring new technologies
-  > Open Source
+$ pwd
+  /home/adelaide/australia
 
-$ current_focus
-  > Sharpening my skills in Full stack and cloud technologies
-  > Working on Expert Ease AI
+$ cat mission.txt
+  Crafting digital experiences that make a difference
+  Building bridges between ideas and implementation
+  
+$ current_project
+  🤖 Expert Ease AI - Revolutionizing expertise accessibility
 ```
 
 ---
 
-### `> ls -R /skills`
+## `> ls -la /tech_stack`
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,docker,git,vscode,figma,postman" />
-  </a>
+### **Frontend Arsenal** 🎨
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,figma" />
+</p>
+
+### **Backend Powerhouse** ⚡
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,fastapi,postgresql,mongodb" />
+</p>
+
+### **DevOps & Tools** 🛠️
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux" />
 </p>
 
 ---
 
-### `> cat /contact.info`
+## `> git log --oneline --graph`
+
+```
+* 🚀 Building Expert Ease AI - AI-powered expertise platform
+* 🌱 Mastering cloud-native architectures  
+* 💡 Contributing to open source projects
+* 📚 Continuously learning and growing
+* 🎯 Focused on scalable, maintainable solutions
+```
+
+---
+
+## `> github stats --detailed`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishaiyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishaiyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaiyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+</div>
+
+---
+
+## `> cat current_focus.md`
+
+🎯 **What I'm working on:**
+- 🤖 **Expert Ease AI** - Making expertise accessible through AI
+- ☁️ **Cloud Technologies** - Diving deep into AWS & serverless architectures  
+- 🚀 **Performance Optimization** - Making web apps lightning fast
+- 🌐 **Full-Stack Mastery** - Bridging frontend beauty with backend power
+
+📚 **Currently Learning:**
+- Advanced React patterns & performance optimization
+- Microservices architecture with Docker & Kubernetes
+- AI/ML integration in web applications
+- Cloud-native development best practices
+
+---
+
+## `> ./connect.sh`
 
 <div align="center">
 
-  <a href="mailto:kishaiyanthangaraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/kishaiyanthangaraj">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/kishaiyan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+**Let's build something amazing together!** 🚀
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishaiyanthangaraj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishaiyanthangaraj)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kishaiyan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishaiyan)
 
 </div>
 
-<!--
-**kishaiyan/kishaiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+<div align="center">
+
+```bash
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+**"Code is poetry written in logic"** ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=kishaiyan&color=9D4EDD&style=flat-square)
+
+</div>
